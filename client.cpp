@@ -3,7 +3,8 @@
 #include<string>
 #include<iostream>
 #include <iomanip>
-#include <fstream>
+//#include <fstream>
+#include <iomanip>
 #pragma comment(lib,"WS2_32.lib")
 #define BUF_SIZE 64
 
